@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NatureRemo.ManualTest/NatureRemo.ManualTest.csproj" Id="012024ce-d88e-4e0b-b4a9-3fa624336f7a" />
+  <Project Path="NatureRemo/NatureRemo.csproj" />
+</Solution>
