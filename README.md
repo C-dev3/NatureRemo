@@ -1,3 +1,7 @@
+[![NuGet Version](https://img.shields.io/nuget/v/NatureRemo)](https://www.nuget.org/packages/NatureRemo/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/NatureRemo)](https://www.nuget.org/packages/NatureRemo/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # NatureRemo
 
 A .NET client library for the [Nature Remo](https://nature.global/) **Cloud API** and **Local API**.
