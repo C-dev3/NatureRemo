@@ -20,8 +20,6 @@ A .NET client library for the [Nature Remo](https://nature.global/) **Cloud API*
 dotnet add package NatureRemo
 ```
 
-> Replace `NatureRemo` with the actual package ID if it differs.
-
 ## Authentication
 
 The Cloud API requires an access token. Generate a personal access token at
